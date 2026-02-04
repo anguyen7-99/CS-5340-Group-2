@@ -1,0 +1,3 @@
+[submodule "weewx"]
+	path = weewx
+	url = https://github.com/weewx/weewx.git
