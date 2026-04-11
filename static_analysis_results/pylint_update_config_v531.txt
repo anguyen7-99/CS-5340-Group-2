@@ -1,0 +1,27 @@
+************* Module weecfg.update_config
+weewx_v531/src/weecfg/update_config.py:79:0: C0301: Line too long (134/100) (line-too-long)
+weewx_v531/src/weecfg/update_config.py:85:13: C0303: Trailing whitespace (trailing-whitespace)
+weewx_v531/src/weecfg/update_config.py:93:0: C0303: Trailing whitespace (trailing-whitespace)
+weewx_v531/src/weecfg/update_config.py:171:0: C0303: Trailing whitespace (trailing-whitespace)
+weewx_v531/src/weecfg/update_config.py:295:0: C0303: Trailing whitespace (trailing-whitespace)
+weewx_v531/src/weecfg/update_config.py:582:0: C0301: Line too long (109/100) (line-too-long)
+weewx_v531/src/weecfg/update_config.py:878:0: C0325: Unnecessary parens after 'assert' keyword (superfluous-parens)
+weewx_v531/src/weecfg/update_config.py:915:0: C0325: Unnecessary parens after 'assert' keyword (superfluous-parens)
+weewx_v531/src/weecfg/update_config.py:1005:0: C0301: Line too long (106/100) (line-too-long)
+weewx_v531/src/weecfg/update_config.py:1201:0: C0301: Line too long (103/100) (line-too-long)
+weewx_v531/src/weecfg/update_config.py:1:0: C0302: Too many lines in module (1372/1000) (too-many-lines)
+weewx_v531/src/weecfg/update_config.py:35:25: C0209: Formatting a regular string which could be an f-string (consider-using-f-string)
+weewx_v531/src/weecfg/update_config.py:133:4: C0103: Variable name "_MODEL_DEFAULTS" doesn't conform to snake_case naming style (invalid-name)
+weewx_v531/src/weecfg/update_config.py:158:4: C0103: Variable name "_QC_DEFAULTS" doesn't conform to snake_case naming style (invalid-name)
+weewx_v531/src/weecfg/update_config.py:175:4: C0103: Variable name "_SERVICE_MAP" doesn't conform to snake_case naming style (invalid-name)
+weewx_v531/src/weecfg/update_config.py:184:4: C0103: Variable name "_GROUPS" doesn't conform to snake_case naming style (invalid-name)
+weewx_v531/src/weecfg/update_config.py:252:4: C0103: Variable name "_WOW_STANZA" doesn't conform to snake_case naming style (invalid-name)
+weewx_v531/src/weecfg/update_config.py:275:4: C0103: Variable name "_AWEKAS_STANZA" doesn't conform to snake_case naming style (invalid-name)
+weewx_v531/src/weecfg/update_config.py:722:0: R0912: Too many branches (18/12) (too-many-branches)
+weewx_v531/src/weecfg/update_config.py:722:0: R0915: Too many statements (54/50) (too-many-statements)
+weewx_v531/src/weecfg/update_config.py:856:0: R0915: Too many statements (72/50) (too-many-statements)
+weewx_v531/src/weecfg/update_config.py:1103:40: E0606: Possibly using variable 'std_report_comment' before assignment (possibly-used-before-assignment)
+
+-----------------------------------
+Your code has been rated at 9.40/10
+
