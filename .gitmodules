@@ -3,4 +3,4 @@
 	url = https://github.com/weewx/weewx.git
 [submodule "weewx_v531"]
 	path = weewx_v531
-	url = https://github.com/weewx/weewx.git
+	url = git@github.com:anguyen7-99/weewx.git
