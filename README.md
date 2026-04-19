@@ -15,7 +15,7 @@ Key refactored functions:
 - `update_to_v26`
 
 ## Repository Layout
-- `docs/` — final paper and final presentation
+- `docs/` — final paper,final presentation, and midterm presentation
 - `static_analysis_results/` — saved Radon and Pylint outputs
 - `weewx_v520/` — baseline WeeWX version
 - `weewx_v531/` — refactored/comparison WeeWX version
