@@ -1,0 +1,20 @@
+CS 5340 Semester Project Submission
+
+Project Repository:
+https://github.com/anguyen7-99/CS-5340-Group-2
+
+Project Contributors:
+- Jerry Delva
+- Andrew Nguyen
+
+This submission includes the source code, documentation, static analysis results, requirements file, license file, SBOM, and WeeWX version submodules used for the semester project.
+
+The main source code artifacts are:
+- weewx_v520: baseline WeeWX v5.2.0 comparison version
+- weewx_v531: baseline/refactored WeeWX v5.3.1 version
+- static_analysis_results: Radon and Pylint outputs
+- README.md: setup, reproduction, and project documentation
+- LICENSE: project license information
+- SBOM.md: software bill of materials
+
+The GitHub repository is provided for transparency, but the ZIP file submitted on Canvas is the version intended for grading.
