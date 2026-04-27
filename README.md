@@ -17,6 +17,7 @@ Key refactored functions:
 ## Repository Layout
 - `docs/` — final paper,final presentation, and midterm presentation
 - `static_analysis_results/` — saved Radon and Pylint outputs
+- `submission/`— source code and documentations zip file for Canvas
 - `weewx_v520/` — baseline WeeWX version
 - `weewx_v531/` — refactored/comparison WeeWX version
 
