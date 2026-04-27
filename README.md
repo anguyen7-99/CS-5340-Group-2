@@ -73,8 +73,8 @@ diff -u weewx_v520/src/weecfg/update_config.py weewx_v531/src/weecfg/update_conf
 radon cc weewx_v520/src/weecfg/update_config.py -s
 radon cc weewx_v531/src/weecfg/update_config.py -s
 
-radon mi weewx_v520/src/weecfg/update_config.py
-radon mi weewx_v531/src/weecfg/update_config.py
+radon mi weewx_v520/src/weecfg/update_config.py -s
+radon mi weewx_v531/src/weecfg/update_config.py -s
 
 pylint weewx_v520/src/weecfg/update_config.py
 pylint weewx_v531/src/weecfg/update_config.py
